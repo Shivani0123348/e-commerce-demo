@@ -1,0 +1,115 @@
+.nav-ul li{
+   display:inline-block;
+   padding:10px;
+}
+
+.nav-ul li a{
+    color:white;
+    padding: 5px;
+    text-decoration: none;
+}
+
+.nav-ul{
+    padding: 5px;
+    margin:0;
+    background-color:skyblue;
+}
+
+.footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: skyblue;
+    color: white;
+}
+
+.sign-up-div, .Addproduct{
+    margin-left:30%;
+}
+
+.inputbox{
+    display:block;
+    margin:25px;
+    padding:7px;
+    width:300px;
+    border:1px solid skyblue;
+}
+
+.app-button {
+    margin:25px;
+    padding:10px;
+    width:150px;
+    background-color: skyblue;
+    border: 1px solid;
+    cursor: pointer;
+}
+
+.login {
+    margin-left:30%;
+}
+
+.inputlogin{
+    display:block;
+    margin:25px;
+    padding:7px;
+    width:300px;
+    border:1px solid skyblue;
+}
+
+.nav-right{
+    text-align: right;
+}
+
+span {
+   color:red;
+   margin-top:-20px;
+   display:block;
+   margin-left:20px;  
+}
+
+
+.Product-lists
+{
+    text-align: center;
+    margin-top:50px;
+}
+
+.Product-lists ul li
+{
+   display:inline-block;
+   border:1px solid skyblue;
+   padding: 5px;
+   width:150px;
+}
+
+.Product-lists ul li button{
+    background-color: skyblue;
+    width:150px;
+    cursor: pointer;
+    border: 2px solid skyblue;
+    border-radius: 20px;
+}
+
+.Product-lists ul li button:hover{
+  background-color: black;
+  color:white;
+  transition: all 0.2s ease-in;
+  border-color: aliceblue;
+}
+
+.search-input{
+    margin: 20px;
+    width: 300px;
+    border: 2px solid skyblue;
+    padding-left: 10px;
+    height: 29px;
+}
+
+
+
+
+.Product-lists ul
+{
+    margin:0;  
+}
